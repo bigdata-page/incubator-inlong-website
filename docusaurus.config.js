@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   // omit unrelated docusaurus options
   title: 'Apache Inlong',
   tagline: 'Apache Inlong',
-  url: 'https://inlong.apache.org',
+  url: 'https://bigdata-page.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
